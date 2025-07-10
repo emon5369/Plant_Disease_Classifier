@@ -8,10 +8,10 @@ A deep learning project built using Convolutional Neural Networks (CNN) to class
 
 This notebook demonstrates:
 
-* Preprocessing of a binary classification dataset (Healthy vs Diseased)
-* Construction of a CNN using TensorFlow/Keras
-* Model training and evaluation
-* Manual prediction on external images
+* Data preprocessing and augmentation
+* CNN architecture design and training
+* Model evaluation on validation data
+* Manual prediction on user-provided external images
 
 ---
 
@@ -91,24 +91,23 @@ new_image_path = 'Your_image_path.jpg  # Replace with the path to your downloade
 
 ## 📦 Dependencies
 
-* Python 3.x
+* Python
 * TensorFlow / Keras
 * NumPy
 * Matplotlib
 * Scikit-learn
 * PIL (Pillow)
-```
+
 ---
 
 ## 🔮 Future Work
 
 * Extend to multi-class classification
-* Deploy the model using Flask or FastAPI
-* Use transfer learning with pre-trained CNNs (e.g., MobileNet, EfficientNet)
+* Deploy the model using FastAPI
+* Use transfer learning with pre-trained CNNs
 
 ---
 
 ## 🤝 Contributing
 
 Contributions are welcome! Open issues or pull requests to improve the model or add new features.
-
