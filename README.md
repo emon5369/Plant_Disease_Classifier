@@ -111,3 +111,9 @@ new_image_path = 'Your_image_path.jpg  # Replace with the path to your downloade
 ## 🤝 Contributing
 
 Contributions are welcome! Open issues or pull requests to improve the model or add new features.
+
+## 🔗 Related Repositories
+
+* 💻 **Web App Deployment** → [Plant Disease Classifier – Web App](https://github.com/emon5369/Plant_Disease_Classifier_web_app)
+  
+  *React + FastAPI web app for real-time plant disease prediction with image upload and confidence scoring.*
