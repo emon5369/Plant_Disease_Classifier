@@ -100,14 +100,6 @@ new_image_path = 'Your_image_path.jpg  # Replace with the path to your downloade
 
 ---
 
-## 🔮 Future Work
-
-* Extend to multi-class classification
-* Deploy the model using FastAPI
-* Use transfer learning with pre-trained CNNs
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Open issues or pull requests to improve the model or add new features.
